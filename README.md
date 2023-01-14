@@ -1,6 +1,5 @@
 ### Hi there I'AM YUBA DEV
 ![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&show_icons=true&theme=radical)
-![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&count_private=true)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
