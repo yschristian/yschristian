@@ -1,7 +1,6 @@
 ### Hi there I'AM YUBA DEV
-<!-- ![ys's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschristian&layout=compact)](https://github.com/yschristian/github-readme-stats) -->
 ![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&show_icons=true&theme=radical)
+![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&count_private=true)
 
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
