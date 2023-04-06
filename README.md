@@ -1,4 +1,4 @@
-### Hi there I'AM YUBA DEV Software Fullstack developer
+### Hi there I'AM YUBA DEV
 
 <!-- ![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschristian&layout=compact)](https://github.com/yschristian/github-readme-stats)
