@@ -1,5 +1,25 @@
 ### Hi there I'AM YUBA DEV
 
+ <!-- Hi there! Feel free to make this your own but don't dare use my info -->
+const christian: Yubahwe = {
+  skills: ["TypeScript", "React", "NodeJS", "SQL", "NoSQL", "ReactNative","Flutter"],
+  location: "Rwanda",
+  socials: {
+    twitter: "https://twitter.com/yubahwe_",
+    website: "https://yuba-dev.vercel.app/",
+    linkedIn: "https://www.linkedin.com/in/yubahwe-shema-christian-b1714222b/",
+  },
+};
+```
+ <div style="align:center">
+   <a href="https://yuba-dev.vercel.app/" target="_blank">Website</a> • 
+   <a href="https://twitter.com/yubahwe_" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> •
+   <a href="https://www.instagram.com/yubahwe_/" target="_blank">Instagram</a> </h4>
+
+<div>
+ <hr style="height:30%">
+
+ 
 <!-- ![yschristian's GitHub stats](https://github-readme-stats.vercel.app/api?username=yschristian&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yschristian&layout=compact)](https://github.com/yschristian/github-readme-stats)
 
